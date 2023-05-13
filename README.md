@@ -1,5 +1,13 @@
 <div align="center">
   <h1 > Partial Collat Engine </h1>
+  <img height=60 src="https://i.imgur.com/vSIO8xJ.png"/>
+  <br/>
+  <br/>
+  <a href="https://github.com/foundry-rs/foundry"><img src="https://img.shields.io/static/v1?label=foundry-rs&message=foundry&color=blue&logo=github"/></a>
+  <a href=https://github.com/grappafinance/partial-collat-engine/actions/workflows/CI.yml""><img src="https://github.com/grappafinance/partial-collat-engine/actions/workflows/CI.yml/badge.svg?branch=master"> </a>
+  <a href="https://codecov.io/gh/grappafinance/partial-collat-engine" >
+<img src="https://codecov.io/gh/grappafinance/partial-collat-engine/branch/master/graph/badge.svg?token=ZDZJSA9AUT"/>
+</a>
   
 </div>
 
